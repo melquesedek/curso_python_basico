@@ -3,6 +3,7 @@ import requests
 #Para usar requisições precisa instalar com o PIP o pacote requests
 #Há vários tipos de requisiões. Só solocar na frente de requests
 texto = None
+#Site https://putsreq.com/ gera uma API para tesar requisição
 cabecalho = {'User-agent': 'Windows 14',
             'Referer' : 'https://www.google.com',
             'CF_IPcountry' : 'US'
